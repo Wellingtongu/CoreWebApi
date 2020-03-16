@@ -1,0 +1,13 @@
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.deps.json
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.runtimeconfig.json
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.runtimeconfig.dev.json
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.dll
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.pdb
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Domain.dll
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\bin\Debug\netcoreapp3.1\CoreWebApi.Domain.pdb
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.csprojAssemblyReference.cache
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.AssemblyInfo.cs
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.csproj.CopyComplete
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.dll
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Infra.Data\obj\Debug\netcoreapp3.1\CoreWebApi.Infra.Data.pdb

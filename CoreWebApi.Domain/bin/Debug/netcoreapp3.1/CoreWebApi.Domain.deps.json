@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreWebApi.Domain/1.0.0": {
+        "runtime": {
+          "CoreWebApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreWebApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

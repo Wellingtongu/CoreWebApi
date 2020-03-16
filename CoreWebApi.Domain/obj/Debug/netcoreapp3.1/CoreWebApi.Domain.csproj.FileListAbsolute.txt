@@ -1,0 +1,8 @@
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\bin\Debug\netcoreapp3.1\CoreWebApi.Domain.deps.json
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\bin\Debug\netcoreapp3.1\CoreWebApi.Domain.dll
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\bin\Debug\netcoreapp3.1\CoreWebApi.Domain.pdb
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\obj\Debug\netcoreapp3.1\CoreWebApi.Domain.csprojAssemblyReference.cache
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\obj\Debug\netcoreapp3.1\CoreWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\obj\Debug\netcoreapp3.1\CoreWebApi.Domain.AssemblyInfo.cs
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\obj\Debug\netcoreapp3.1\CoreWebApi.Domain.dll
+C:\Users\wellington\source\repos\SolutionCoreWebApi\CoreWebApi.Domain\obj\Debug\netcoreapp3.1\CoreWebApi.Domain.pdb
